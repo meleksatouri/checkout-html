@@ -1,0 +1,27 @@
+.all {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#F9629F;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.container{
+    display: flex;
+    width: 100vw;
+    justify-content: space-evenly;
+    background-color: #FFC0CB;
+}
+.set{
+    display: flex;
+    width: 100vw;
+}
+.fleche{
+    display:flex;
+    width: 100vw;
+    justify-content: flex-end;
+}
+body{
+    background-image:"../images/back.png";
+}
+
+
+
